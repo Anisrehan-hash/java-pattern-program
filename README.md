@@ -9,6 +9,7 @@
 3. To print space
 4. 
    -> First itterate using for loop to set number of rows
+   
           for(int i=0;i<=3;i++)
           In this case number of rows is 3.
 	  
@@ -18,6 +19,7 @@
           j is used to itterate the columns.
 	  
    -> The logic behind n-i is when the number of rows increase then space will decrease
+   
 		     	for(int j=1;j<=3-i;j++)
 		    	{
 				    System.out.print(" ");
