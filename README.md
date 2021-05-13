@@ -23,10 +23,13 @@
 				    System.out.print(" ");
 		    	}  
 4. To print star("*")
+5. 
    -> For printing star using formula "2*i-1" and itterate using for loop because number of star increases wrt number of rows.
+   
           for(int j=1;j<=2*i-1;j++)
 			    {
 				     System.out.print("*");
 		     	}
+			
  5. To move the cursor next line 
           System.out.println();
